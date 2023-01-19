@@ -496,5 +496,5 @@ plt.show()
 
 #Conclusion
 
-From above two models, i.e linear and non linear model. we can conclude that RandomForestRegressor gives us = 0.8839060185534444,0.8488858452472634 Accuracy 89% and 85% and LinearRegression gives us = 0.7976685756859008, 0.8292247702712091 80% and 83% Accuracy. RandomForestRegressor is best model for prediction.
+#From above two models, i.e linear and non linear model. we can conclude that RandomForestRegressor gives us = 0.8839060185534444,0.8488858452472634 Accuracy 89% and 85% and LinearRegression gives us = 0.7976685756859008, 0.8292247702712091 80% and 83% Accuracy. RandomForestRegressor is best model for prediction.
 
